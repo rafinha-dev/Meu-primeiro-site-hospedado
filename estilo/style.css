@@ -3,12 +3,23 @@
 }
 
 Body {
-    background-color: #rgb(204, 157, 248);
+    background-color: rgb(136, 136, 62);
 }
-
+h1{
+    font-size: 2cm;
+    color: rgb(58, 0, 112);
+}
+h2{
+    font-size: 1.cm;
+    color: rgb(58, 0, 112);
+}
 main {
-    background-color: white;
+    background-color: rgb(241, 233, 233);
     width: 500px;
     margin: auto;
-    box-shadow: 3px 3px 3px 3px red;
+    padding: 5px;
+    box-shadow: 3px 3px 3px 3px rgb(91, 99, 49);
+}
+img.lado {
+    float: right;
 }
