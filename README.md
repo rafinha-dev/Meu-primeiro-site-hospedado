@@ -1,4 +1,4 @@
-# Projeto do Cursso em Video
+# Site feito no Cursso em Video
  Confira aqui o site desse projeto : https://rafaelcontact.github.io/Projeto-site/ <br>
  Esse foi um dos primeiros sites que fiz dentro do cursso em vídeo. <br>
  Apenas para aplicar alguns conceitos que aprendi sobre html e css.
